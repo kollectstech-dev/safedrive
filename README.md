@@ -1,7 +1,7 @@
 # Safe Driving App
 
 A mobile application built with React Native and Expo that monitors, analyzes, and scores driving behavior in real-time. By leveraging native device sensors at high frequencies, the app detects dangerous driving patterns, provides a live telemetry dashboard, and stores detailed historical session data to help users improve their driving habits.
-
+#Again updating readme
 ## Demo Video
 
 Watch the app in action:
